@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuaniDevelop
 - 👀 I’m interested in cycling, programming, learning!
-- 🌱 I’m currently learning Flutter and C
+- 🌱 I’m currently learning Flutter, C, Haskell and Markdown
 - 💞️ I’m looking to collaborate on a big company like FAANG
 - 📫 How to reach me www.linkedin.com/in/juanivilladev
 
