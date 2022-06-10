@@ -1,4 +1,4 @@
-# Hi, I'm JuaniDevelop 👋
+# Hi, I'm JuaniVilla02 👋
 - 📚 Currently studying **Computer Sciences** at my local university
 - 🌎 I speak **Spanish** and **English** (native proficiency)
 - 👀 I’m interested in **math**, **programming** and learning about new technologies!
