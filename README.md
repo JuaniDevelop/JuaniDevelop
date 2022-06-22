@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # Hi, I'm JuaniVilla02 👋<br>- 📚 Currently studying **Computer Sciences** at my local university<br>- 🌎 I speak **Spanish** and **English** (native proficiency)<br>- 👀 I’m interested in **math**, **programming** and learning about new technologies!<br>- 🌱 I’m currently learning **Flutter**, C, Haskell, **Dart** and **Markdown**<br>- 🏬 I’m looking to collaborate on a big company like **FAANG** when I graduate, but for the moment, I would love a part-time job<br>- 📫 How to reach me: www.linkedin.com/in/juanivilladev<br>- 📨 My e-mail is: juani2002villa@gmail.com
 
 
