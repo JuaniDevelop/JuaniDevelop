@@ -18,6 +18,6 @@ class JuaniVillanueva:
         )
         
 # Usage
-profile = JuaniVillanuevaProfile()
+profile = JuaniVillanueva()
 print(profile)
 ```
