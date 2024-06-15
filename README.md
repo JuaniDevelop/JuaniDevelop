@@ -1,15 +1,23 @@
+```python
+class JuaniVillanuevaProfile:
+    def __init__(self):
+        self.name = "Juani Villanueva"
+        self.location = "Argentina"
+        self.pursuit = "Computer Science Degree"
+        self.languages = ["English", "Spanish"]
+        self.technologies = ["Flutter", "Moodle"]
+        self.skills = ["Git", "GitHub", "Docker", "Firebase", "C", "Java", "Python", "Ruby"]
 
-## Hi, I'm Juani 👋 
-- 📚 Currently studying **Computer Sciences** at my local university
-- 🌎 I speak **Spanish** and **English** (native proficiency)
-- 👀 I’m interested in **math**, **programming** and learning about new technologies!
-- 🌱 I’m currently learning **Flutter**, C, Haskell, **Dart** and **Java**
-- 🏬 I’m looking to collaborate on a big company like **MAANG** when I graduate, but for the moment, I would love a part-time job
-- 📫 How to reach me: www.linkedin.com/in/juanivilladev
-- 📨 My e-mail is: juani2002villa@gmail.com
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JuaniVilla02&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JuaniVilla02&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+    def __str__(self):
+        return (
+            f"Hey there! I'm {self.name} from {self.location}, pursuing a {self.pursuit}.\n"
+            f"Languages: {', '.join(self.languages)}\n"
+            f"Technologies: {', '.join(self.technologies)}\n"
+            f"Skills: {', '.join(self.skills)}\n"
+            "Feel free to explore my repositories and connect with me!"
+        )
+        
+# Usage
+profile = JuaniVillanuevaProfile()
+print(profile)
+```
