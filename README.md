@@ -1,5 +1,5 @@
 ```python
-class JuaniVillanuevaProfile:
+class JuaniVillanueva:
     def __init__(self):
         self.name = "Juani Villanueva"
         self.location = "Argentina"
