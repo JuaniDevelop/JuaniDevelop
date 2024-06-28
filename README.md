@@ -5,7 +5,7 @@ class JuaniVillanueva:
         self.location = "Argentina"
         self.pursuit = "Computer Science degree"
         self.languages = ["English", "Spanish"]
-        self.technologies = ["Flutter", "Moodle", "MySQL/Postgre", "Firebase", "Docker", "Git/GitHub", "Xcode/Android Studio"]
+        self.technologies = ["Flutter", "Moodle", "MySQL/PostgreSQL", "Firebase", "Docker", "Git/GitHub", "Xcode/Android Studio"]
 
     def __str__(self):
         return (
